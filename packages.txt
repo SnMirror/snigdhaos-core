@@ -1,0 +1,7 @@
+aic94xx-firmware-30
+ast-firmware-501
+mkinitcpio-firmware-1.4.0
+mkinitcpio-openswap-0.1.0
+snigdhaos-libs-r32.e7efd23
+upd72020x-fw-1:1.0.0
+wd719x-firmware-1
